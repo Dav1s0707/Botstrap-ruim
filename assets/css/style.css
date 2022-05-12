@@ -1,0 +1,9 @@
+body{
+    animation: exemplo 1000ms linear;
+}
+
+@keyframes exemplo {
+    0%{background-color: coral;}
+    100%{background-color: cornflowerblue;}
+    
+}
